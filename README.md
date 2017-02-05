@@ -2,7 +2,7 @@
 Mooc - FUN - MinesTelecom :  [La Fabrication Numérique](https://www.fun-mooc.fr/courses/MinesTelecom/04017S02/session02/progress)
 
 
-# MOOC 1 : [Programmer un objet avec Arduino](Mooc-1.otl)
+# MOOC 1 : [Programmer un objet avec Arduino](Mooc-1/Mooc-1.otl)
 
 Apprenez à programmer un objet en utilisant l’électronique et le développement Arduino issu des FabLab.
 
