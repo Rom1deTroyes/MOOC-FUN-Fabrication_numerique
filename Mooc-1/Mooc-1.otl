@@ -1,14 +1,14 @@
 
-[_] 16% MOOC 1 : Programmer un objet avec Arduino
-	[_] 50% Matériel
-		[_] Kit de base
+[_] 29% MOOC 1 : Programmer un objet avec Arduino
+	[X] 100% Matériel
+		[X] Kit de base
 		[X] Optionel
-	[_] 50% Semaine 1 : Les outils
+	[_] 75% Semaine 1 : Les outils
 		[X] Jeudi 02/02
 		: Puissance = Flux * Effort
 		: Puissance éléctrique = Tension (effort) * Intensité (flux)
 		[X] Quiz 01 le 30/03
-		[_] TP 01 le 16/02
+		[X] TP 01 le 16/02
 		[_] Évaluation pairs du 16/02 au 02/03
 	[_] 0% Semaine 2 : Capteurs numériques
 		[_] Jeudi 09/02
