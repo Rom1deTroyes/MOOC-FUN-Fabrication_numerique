@@ -1,5 +1,5 @@
 
-[_] 45% MOOC 1 : Programmer un objet avec Arduino
+[_] 58% MOOC 1 : Programmer un objet avec Arduino
 	[X] 100% Matériel
 		[X] Kit de base
 		[X] Optionel
@@ -15,14 +15,14 @@
 		[X] Quiz 02 30/03
 		[X] TP 02 23/02
 		[X] Évaluation pairs du 23/02 au 09/03
-	[_] 0% Semaine 3 : Capteurs analogiques
+	[_] 50% Semaine 3 : Capteurs analogiques
 		[_] Jeudi 16/02
-		[_] Quiz 03 30/03
-		[_] TP 03 2/03
+		[X] Quiz 03 30/03
+		[X] TP 03 2/03
 		[_] Évaluation pairs du 02/03 au 16/03
-	[_] 0% Semaine 4 : Librairies et sorties
+	[_] 25% Semaine 4 : Librairies et sorties
 		[_] Jeudi 23/02
-		[_] Quiz 04 30/03
+		[X] Quiz 04 30/03
 		[_] TP 04 09/03
 		[_] Évaluation pairs du 09/03 au 23/03
 	[_] 0% Conclusion
