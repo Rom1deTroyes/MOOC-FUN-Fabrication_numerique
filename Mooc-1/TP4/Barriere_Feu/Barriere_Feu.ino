@@ -20,7 +20,7 @@
  *
  * Montage :
  * - Barrière :
- *   - Servomoteur sur les borches 9, +5V et GND
+ *   - Servomoteur sur les broches 9, +5V et GND
  * - Bouton d'appel :
  *   - Broche 02 : Point central reliant le Bouton Poussoir et la Résistance de Rappel
  *     - Bouton poussoir : Broche +5V et Broche Point Central
