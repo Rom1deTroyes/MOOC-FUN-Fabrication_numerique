@@ -9,7 +9,7 @@ Apprenez à programmer un objet en utilisant l’électronique et le développem
 
 Début du cours le 2 février 2017
 
-# MOOC 2 : Fabriquer un objet connecté
+# MOOC 2 : [Fabriquer un objet connecté](Mooc-2/Mooc-2.otl)
 
 Que se passe-t-il quand les objets se connectent à Internet ? Découvrez les mécanismes et les langages pour connecter un objet à Internet ou connecter des objets entre eux.
 
