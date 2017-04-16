@@ -1,8 +1,12 @@
-[_] 16% MOOC 2 : Fabriquer un objet connecté
+[_] 18% MOOC 2 : Fabriquer un objet connecté
 	[X] 100% Matériel
 		[X] Kit de base
 		[X] Optionel
-	[_] 0% Semaine 1 : Microcontrôleur ESP et servomoteur 	
+	[_] 8% Semaine 1 : Microcontrôleur ESP et servomoteur
+		[_] 33% Nelson
+			[X] Installer les outils nécessaires à la programmation d’un module ESP
+			[_] Analyser le fonctionnement du servomoteur à retour d'information
+			[_] Rappels sur les capteurs analogiques, le port/traceur série.
 		[_] Quiz 1 25/05
 		[_] TP1 20/04
 		[_] Évaluation pairs du 20/04 au 04/05
