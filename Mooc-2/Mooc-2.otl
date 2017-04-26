@@ -1,8 +1,8 @@
-[_] 29% MOOC 2 : Fabriquer un objet connecté
+[_] 44% MOOC 2 : Fabriquer un objet connecté
 	[X] 100% Matériel
 		[X] Kit de base
 		[X] Optionel
-	[_] 75% Semaine 1 : Microcontrôleur ESP et servomoteur
+	[X] 100% Semaine 1 : Microcontrôleur ESP et servomoteur
 		[X] 100% Nelson
 			[X] Installer les outils nécessaires à la programmation d’un module ESP
 			[X] Analyser le fonctionnement du servomoteur à retour d'information
@@ -16,10 +16,10 @@
 		: BOARD_TAG     ?= uno
 		: #ARDUINO_PORT  ?= /dev/ttyUSB0
 		: ARDUINO_PORT  ?= /dev/ttyACM0
-		[_] Évaluation pairs du 20/04 au 04/05
-	[_] 0% Semaine 2 : Wifi et données 	
-		[_] Quiz 2 25/05
-		[_] TP2 le 27/04
+		[X] Évaluation pairs du 20/04 au 04/05
+	[_] 66% Semaine 2 : Wifi et données 	
+		[X] Quiz 2 25/05
+		[X] TP2 le 27/04
 		[_] Évaluation pairs du 27/04 au 11/05
 	[_] 0% Semaine 3 : API Web 	
 		[_] Quiz 3 25/05
