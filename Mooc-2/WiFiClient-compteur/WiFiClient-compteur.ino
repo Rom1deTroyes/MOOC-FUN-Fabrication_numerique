@@ -2,7 +2,7 @@
    WiFiClient-compteur
    créé par Laurent Toutain le 17 Mai 2016
 
-   Ce code est en CC0 1.0 Universal 
+   Ce code est en CC0 1.0 Universal
  */
 
 #include <ESP8266WiFi.h>
@@ -26,9 +26,9 @@ void setup() {
 		Serial.print(".");
 	}
 
-	Serial.println("");  // on affiche les paramètres 
-	Serial.println("WiFi connecté");  
-	Serial.print("Adresse IP du module ESP: ");  
+	Serial.println("");  // on affiche les paramètres
+	Serial.println("WiFi connecté");
+	Serial.print("Adresse IP du module ESP: ");
 	Serial.println(WiFi.localIP());
 	Serial.print("Adresse IP de la box : ");
 	Serial.println(WiFi.gatewayIP());
@@ -52,7 +52,7 @@ void loop() {
 	}
 
 
-	// La connexion a réussie on forme le chemin 
+	// La connexion a réussie on forme le chemin
 	String url = String("/hits/");
 
 	Serial.print("demande URL: ");
@@ -67,10 +67,10 @@ void loop() {
 	// La deuxième rappelle au serveur sous quel nom on l'appelle, en
 	// effet, à une même adresse IP on peut avoire différents serveurs
 	// repondant à des noms différents.
-	// La troisième ligne indique que le serveur doit fermer la 
+	// La troisième ligne indique que le serveur doit fermer la
 	// connexion apres la réponse et ne pas attendre d'autres requêtes.
 	client.print(String("GET ") + url + " HTTP/1.1\r\n" +
-			"Host: " + host + "\r\n" + 
+			"Host: " + host + "\r\n" +
 			"Connection: close\r\n\r\n");
 
 	// On attend 1 seconde
