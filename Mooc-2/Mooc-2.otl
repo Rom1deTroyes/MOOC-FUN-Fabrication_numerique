@@ -1,4 +1,4 @@
-[_] 44% MOOC 2 : Fabriquer un objet connecté
+[_] 55% MOOC 2 : Fabriquer un objet connecté
 	[X] 100% Matériel
 		[X] Kit de base
 		[X] Optionel
@@ -17,12 +17,12 @@
 		: #ARDUINO_PORT  ?= /dev/ttyUSB0
 		: ARDUINO_PORT  ?= /dev/ttyACM0
 		[X] Évaluation pairs du 20/04 au 04/05
-	[_] 66% Semaine 2 : Wifi et données 	
+	[X] 100% Semaine 2 : Wifi et données 	
 		[X] Quiz 2 25/05
 		[X] TP2 le 27/04
-		[_] Évaluation pairs du 27/04 au 11/05
-	[_] 0% Semaine 3 : API Web 	
-		[_] Quiz 3 25/05
+		[X] Évaluation pairs du 27/04 au 11/05
+	[_] 33% Semaine 3 : API Web 	
+		[X] Quiz 3 25/05
 		[_] TP3 le 4/05
 		[_] Évaluation pairs du 4/05 au 18/05
 	[_] 0% Semaine 4 : Nelson et visualisation de données 	
